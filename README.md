@@ -4,6 +4,7 @@ This project is an MVC-based CRUD application that integrates Git and GitHub for
 
 ## Steps to Clone and Run the Application
 git clone https://github.com/your-username/PILAR-VISOC-REPO.git
+
 cd PILAR-VISOC-REPO
 
 ## Git Workflow Explanation
