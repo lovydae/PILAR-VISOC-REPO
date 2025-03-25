@@ -12,20 +12,20 @@ Branching Strategy:
 
 <pre>main - Stable version</pre>   
    
-'   feature-branch - For developing new features'
+<pre>feature-branch - For developing new features</pre>
    
 Making Changes:
 
-'   git checkout -b feature-branch'
+<pre>git checkout -b feature-branch</pre>
    
-'   git add .'
+<pre>git add .</pre>
    
-'   git commit -m "feat: Add new functionality"'
+<pre>git commit -m "feat: Add new functionality"</pre>
    
-'   git push origin feature-branch'
+<pre>git push origin feature-branch</pre>
    
 Creating a Pull Request:
 
-'   Open a PR from feature-branch to main'
+<pre>Open a PR from feature-branch to main</pre>
    
-'   Request a review and merge after approval'
+<pre>Request a review and merge after approval</pre>
