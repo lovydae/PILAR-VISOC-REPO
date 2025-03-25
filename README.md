@@ -10,7 +10,7 @@ cd PILAR-VISOC-REPO
 ## Git Workflow Explanation
 Branching Strategy:
 
-'   main - Stable version'
+<pre>main - Stable version</pre>   
    
 '   feature-branch - For developing new features'
    
